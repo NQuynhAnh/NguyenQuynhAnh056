@@ -1,0 +1,69 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\lamho\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Phat trien phan mem quan ly\\NguyenQuynhAnh056\\NguyenQuynhAnh056.csproj",
+      "projectName": "NguyenQuynhAnh056",
+      "projectPath": "E:\\Phat trien phan mem quan ly\\NguyenQuynhAnh056\\NguyenQuynhAnh056.csproj",
+      "packagesPath": "C:\\Users\\lamho\\.nuget\\packages\\",
+      "outputPath": "E:\\Phat trien phan mem quan ly\\NguyenQuynhAnh056\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\lamho\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
